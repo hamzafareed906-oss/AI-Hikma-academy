@@ -1,0 +1,7 @@
+{
+  "name": "Al-Hikmah AI Academy | Global K-12 to PhD Coding & Education Hub",
+  "description": "Multilingual AI education platform supporting English, Urdu, Arabic and more with step-by-step problem solving, RTL/LTR layout, dark mode, Islamic studies, coding sandbox, automated assignment grading, quizzes, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
